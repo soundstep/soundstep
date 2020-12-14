@@ -10,7 +10,7 @@ Beside that, I love scripting anything that will help myself, and probably some 
 
 Monorepos and a big accent on automation and workflows seem to be part of my daily life as a developer.
 
-Get in touch, [just for chatting](romu@soundstep.com)!
+Get in touch, just for chatting!
 
 ![](https://github.com/soundstep/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/soundstep/github-stats/blob/master/generated/languages.svg)
