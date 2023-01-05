@@ -18,5 +18,5 @@ Get in touch, just for chatting!
 [![](https://github-readme-stats.vercel.app/api?username=soundstep)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-![](https://raw.githubusercontent.com/soundstep/github-stats-generate/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/soundstep/github-stats-generate/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/soundstep/github-stats-generate/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/soundstep/github-stats-generate/master/generated/languages.svg)
