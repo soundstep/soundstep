@@ -1,16 +1,18 @@
-### Hi 👋
+### Hi
 
-Currently hard working on private repositories, you won't see most of my work!
+```sh
+curl -sL ancv.io/soundstep | less -r
+```
 
-I obviously like programming in general, that's why I'm here. I do like node.js and vanilla Javascript. "Minimal" is a term that generally works for me as I believe "going towards simplicity" is an important mantra to have.
+Hi there!
 
-Without killing the fun, I follow some old concepts that Javascript developers seem to forget nowadays. Like the Law of Demeter, scalability, maintainability, well-used design patterns, and so on. For this reason, I love frameworks, libraries, and open-source code and I believe in user-friendly API, abstractions, and well-built interfaces.
+I’m diving into private projects, so most of my work isn’t visible here. I’m a Lead Engineer specialising in both front-end and back-end development and, as well as cloud infrastructure and CI/CD integrations. My focus is on enhancing team workflows and boosting productivity.
 
-Besides that, I love scripting anything that will help me, and probably some colleagues, regardless of the language: Javascript, NodeJS, Go, Deno, bash, or anything that will work at that moment. I take scripting every day's tasks as an excuse to learn new tools and new languages because I'm really really... curious!
+I’ve led an SRE team, built dynamic CI/CD pipelines, and created various CLI tools. I collaborate closely with other leads and directors to develop frameworks that support engineers and showcase the value of technical work. I’m also active in front-end communities, sharing knowledge and encouraging collaboration.
 
-Monorepos and a big accent on automation and workflows seem to be part of my daily life as a developer.
+I enjoy scripting to simplify processes, and automation are integral to my daily routine. I’m passionate about tech and enjoy mentoring, improving systems, and driving innovation.
 
-Get in touch, just for chatting!
+[Get in touch!](https://www.linkedin.com/in/romualdquantin/)
 
 <!--
 ![](https://github.com/soundstep/github-stats/blob/master/generated/overview.svg)
